@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kothapalli-naimisha
+- 👀 I’m interested in Data Analysis , Python, SQL
+- 🌱 I’m currently learning IBM Data Analyst Professional Certificate
+- 📫 How to reach me naimisha.nainu9@gmail.com
